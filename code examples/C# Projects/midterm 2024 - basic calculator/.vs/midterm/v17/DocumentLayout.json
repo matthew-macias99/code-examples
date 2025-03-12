@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\midterm\\midterm\\midterm\\calcapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|solutionrelative:midterm\\calcapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\midterm\\midterm\\midterm\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|solutionrelative:midterm\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\midterm\\midterm\\midterm\\memorycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|solutionrelative:midterm\\memorycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\calcapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{133A50D6-E5EB-43F0-9C7F-DD9E7EBA2F5F}|midterm\\midterm.csproj|solutionrelative:midterm\\calcapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemoryCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\MemoryCalculator.cs",
+              "RelativeDocumentMoniker": "midterm\\MemoryCalculator.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\MemoryCalculator.cs",
+              "RelativeToolTip": "midterm\\MemoryCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:29:52.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\Calculator.cs",
+              "RelativeDocumentMoniker": "midterm\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\Calculator.cs",
+              "RelativeToolTip": "midterm\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:29:22.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcApp.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\CalcApp.cs",
+              "RelativeDocumentMoniker": "midterm\\CalcApp.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\CalcApp.cs",
+              "RelativeToolTip": "midterm\\CalcApp.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwGIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:30:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\CalcApp.cs",
+              "RelativeDocumentMoniker": "midterm\\CalcApp.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Midterm\\midterm\\midterm\\CalcApp.cs [Design]",
+              "RelativeToolTip": "midterm\\CalcApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:43:10.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

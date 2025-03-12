@@ -1,0 +1,2 @@
+﻿ALTER TABLE Movies
+ADD PosterPath NVARCHAR(MAX);

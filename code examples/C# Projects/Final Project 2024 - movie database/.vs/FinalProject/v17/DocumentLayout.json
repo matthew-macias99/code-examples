@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\finalproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\reviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\reviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\finalproject\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\finalproject\\moviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\moviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\moviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\moviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\finalproject\\reviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\reviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\addremovepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\addremovepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\finalproject\\addremovepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\addremovepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\favoriteswishlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\favoriteswishlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\finalproject\\favoriteswishlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\favoriteswishlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|c:\\users\\matthew\\documents\\github\\allcoursework-matthew-macias99\\final project\\final project application\\finalproject\\finalproject\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\finalproject\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07D9822C-44C1-4ED0-9939-DD7D1E485338}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\purchasepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\SearchPage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\SearchPage.cs",
+              "RelativeToolTip": "FinalProject\\SearchPage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:39:19.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\SearchPage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\SearchPage.cs [Design]",
+              "RelativeToolTip": "FinalProject\\SearchPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:38:56.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewPage.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\ReviewPage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ReviewPage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\ReviewPage.cs",
+              "RelativeToolTip": "FinalProject\\ReviewPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:39:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\ReviewPage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\ReviewPage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\ReviewPage.cs [Design]",
+              "RelativeToolTip": "FinalProject\\ReviewPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:38:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PurchasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\PurchasePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\PurchasePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\PurchasePage.cs",
+              "RelativeToolTip": "FinalProject\\PurchasePage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAE4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:39:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PurchasePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\PurchasePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\PurchasePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\PurchasePage.cs [Design]",
+              "RelativeToolTip": "FinalProject\\PurchasePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:38:52.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviePage.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\MoviePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MoviePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\MoviePage.cs",
+              "RelativeToolTip": "FinalProject\\MoviePage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:39:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\MoviePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MoviePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\MoviePage.cs [Design]",
+              "RelativeToolTip": "FinalProject\\MoviePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:38:50.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\HomePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\HomePage.cs [Design]",
+              "RelativeToolTip": "FinalProject\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:38:46.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\HomePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\HomePage.cs",
+              "RelativeToolTip": "FinalProject\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:39:55.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FavoritesWishlistPage.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\FavoritesWishlistPage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\FavoritesWishlistPage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\FavoritesWishlistPage.cs",
+              "RelativeToolTip": "FinalProject\\FavoritesWishlistPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:40:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FavoritesWishlistPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\FavoritesWishlistPage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\FavoritesWishlistPage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\FavoritesWishlistPage.cs [Design]",
+              "RelativeToolTip": "FinalProject\\FavoritesWishlistPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:38:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddRemovePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\AddRemovePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AddRemovePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\AddRemovePage.cs [Design]",
+              "RelativeToolTip": "FinalProject\\AddRemovePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:38:33.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRemovePage.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\AddRemovePage.cs",
+              "RelativeDocumentMoniker": "FinalProject\\AddRemovePage.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\AddRemovePage.cs",
+              "RelativeToolTip": "FinalProject\\AddRemovePage.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwFAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:40:19.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\MovieDBContext.cs",
+              "RelativeDocumentMoniker": "FinalProject\\MovieDBContext.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\MovieDBContext.cs",
+              "RelativeToolTip": "FinalProject\\MovieDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:24:27.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Database.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Database.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Database.cs",
+              "RelativeToolTip": "FinalProject\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:45:08.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Purchase.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Purchase.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Purchase.cs",
+              "RelativeToolTip": "FinalProject\\Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:44:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Review.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Review.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Review.cs",
+              "RelativeToolTip": "FinalProject\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:43:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Movie.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Movie.cs",
+              "ToolTip": "C:\\Users\\Matthew\\Documents\\GitHub\\allcoursework-matthew-macias99\\Final Project\\Final Project Application\\FinalProject\\FinalProject\\Movie.cs",
+              "RelativeToolTip": "FinalProject\\Movie.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:43:19.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

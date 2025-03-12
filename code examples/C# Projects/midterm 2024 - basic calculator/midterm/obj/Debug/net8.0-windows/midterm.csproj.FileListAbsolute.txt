@@ -1,0 +1,17 @@
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\bin\Debug\net8.0-windows\midterm.exe
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\bin\Debug\net8.0-windows\midterm.deps.json
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\bin\Debug\net8.0-windows\midterm.runtimeconfig.json
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\bin\Debug\net8.0-windows\midterm.dll
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\bin\Debug\net8.0-windows\midterm.pdb
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.CalcApp.resources
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.csproj.GenerateResource.cache
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.AssemblyInfo.cs
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.sourcelink.json
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.dll
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\refint\midterm.dll
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.pdb
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\midterm.genruntimeconfig.cache
+C:\Users\Matthew\Documents\GitHub\allcoursework-matthew-macias99\Midterm\midterm\midterm\obj\Debug\net8.0-windows\ref\midterm.dll
